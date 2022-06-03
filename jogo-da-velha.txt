@@ -1,0 +1,10 @@
+# Jogo da velha
+## Integrantes
+### Isabel de Melo Alves Catão
+### Luan Victor
+
+| -  |  A     | B     | C     |
+| -- | :---:  | :---: | :---: |
+| 1  | W      | W     | W     |
+| 2  | W      | W     | W     |
+| 3  | W      | W     | W     |
